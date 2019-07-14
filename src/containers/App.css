@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Quad Ultra Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Quad Ultra Regular'), url('Quad Ultra.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Quad Ultra Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}
